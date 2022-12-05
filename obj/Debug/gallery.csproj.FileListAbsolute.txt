@@ -1,0 +1,16 @@
+D:\BORIS\занятие прогтайм\gallery\bin\Debug\gallery.exe.config
+D:\BORIS\занятие прогтайм\gallery\bin\Debug\gallery.exe
+D:\BORIS\занятие прогтайм\gallery\bin\Debug\gallery.pdb
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\gallery.csproj.AssemblyReference.cache
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\gallery.csproj.SuggestedBindingRedirects.cache
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\MainWindow.g.cs
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\App.g.cs
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\gallery_MarkupCompile.cache
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\gallery_MarkupCompile.lref
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\MainWindow.baml
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\gallery.g.resources
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\gallery.Properties.Resources.resources
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\gallery.csproj.GenerateResource.cache
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\gallery.csproj.CoreCompileInputs.cache
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\gallery.exe
+D:\BORIS\занятие прогтайм\gallery\obj\Debug\gallery.pdb

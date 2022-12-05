@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9126640-4150-44c4-8a7b-9edd82e272e2": {
+      "ProjectGuid": "a9126640-4150-44c4-8a7b-9edd82e272e2",
+      "DisplayName": "gallery",
+      "ColorIndex": 0
+    },
+    "ff8b6b7b-528c-4682-853a-b0ce3ab272f1": {
+      "ProjectGuid": "ff8b6b7b-528c-4682-853a-b0ce3ab272f1",
+      "DisplayName": "timer",
+      "ColorIndex": 1
+    },
+    "c43ac352-2c12-4a69-9e90-dfe5e1e969c2": {
+      "ProjectGuid": "c43ac352-2c12-4a69-9e90-dfe5e1e969c2",
+      "DisplayName": "add remove obj",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "d053dd1e-111d-49dd-83c5-0bf827da4159": {
+      "ProjectGuid": "d053dd1e-111d-49dd-83c5-0bf827da4159",
+      "DisplayName": "platformer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
